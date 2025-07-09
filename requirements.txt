@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+tqdm
+langchain
+sentence-transformers
+faiss-cpu
+chromadb
+openai
+transformers
+gradio
+streamlit
+python-dotenv
+google.generativeai
